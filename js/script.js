@@ -1,1 +1,1 @@
-console.log(nice is your first time with javascript)
+console.log("nice is your first time with javascript")
